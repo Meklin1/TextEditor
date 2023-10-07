@@ -1,5 +1,7 @@
 # TextEditor
 
+**Personal project**  
+
 This text editor is an assistive text typing tool that helps you to type text comfortably and without errors.
 
 The program is launched via the created .jar file or by going to the project's src folder via the command line and typing: "javac application/application.java && java application/application.java" via the command line.
